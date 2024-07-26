@@ -1,0 +1,39 @@
+.open-sans-normal {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.flex-container {
+display: flex;
+background-color: white;
+justify-content: center;
+padding: 20px;
+}
+
+.div1 {
+  background: aqua;
+  float: left;
+  margin: 10px;
+  border-radius: 5px;
+  color: white;
+}
+
+.div2 {
+  background: blue;
+  float: left;
+  margin: 10px;
+  border-radius: 5px;
+  color: white;
+}
+
+.div3 {
+  background: green;
+  float: left;
+  margin: 10px;
+  border-radius: 5px;
+  color: white;
+}
